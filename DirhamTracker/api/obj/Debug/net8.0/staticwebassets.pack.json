@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\assets\\NewLogo.jpg",
+      "PackagePath": "staticwebassets\\assets\\NewLogo.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\Ahmed Hassan.png",
+      "PackagePath": "staticwebassets\\uploads\\Ahmed Hassan.png"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\Background.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Background.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\Ebrahim El-Sayed.png",
+      "PackagePath": "staticwebassets\\uploads\\Ebrahim El-Sayed.png"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\FB_IMG_1649244744767.jpg",
+      "PackagePath": "staticwebassets\\uploads\\FB_IMG_1649244744767.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\profile-pic.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile-pic.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\wallpaperflare.com_wallpaper(21).jpg",
+      "PackagePath": "staticwebassets\\uploads\\wallpaperflare.com_wallpaper(21).jpg"
+    },
+    {
+      "Id": "D:\\Projects\\api\\wwwroot\\uploads\\youssef Ahmed.png",
+      "PackagePath": "staticwebassets\\uploads\\youssef Ahmed.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.api.props",
+      "PackagePath": "build\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.api.props",
+      "PackagePath": "buildMultiTargeting\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.api.props",
+      "PackagePath": "buildTransitive\\api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
